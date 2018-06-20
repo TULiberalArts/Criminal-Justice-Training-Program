@@ -5,6 +5,8 @@ title: Criminal Justice Training Program
 baseurl: /criminal-justice-training-program
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/criminal-justice-training-program
 
 
 # Program Information
