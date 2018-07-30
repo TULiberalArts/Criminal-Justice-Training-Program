@@ -1,0 +1,19 @@
+---
+# global predefined variables
+layout: tla_page
+permalink: /curriculum-projects/
+published: true
+# meta-data variables
+title: Curriculum Projects
+description: >-
+keywords: ''
+# custom variables
+sidebar: true
+sidebar_content: sidebars/cjtp.html
+---
+## Deputy Sheriffs' Curriculum Development Program
+Temple University's Criminal Justice Training Programs (CJTP), under contract to the Pennsylvania Deputy Sheriffs' Education and Training Board and the Pennsylvania Commission on Crime and Delinquency, is presently engaged in a curriculum development project to revise the Pennsylvania Deputy Sheriffs' Basic Training Curriculum. Originally written in 1984 by Temple University, the program included 160 hours of basic training in traditional deputy-related job functions.  The original curriculum included topics such as Introduction to Criminal Justice, Unified Courts of Pennsylvania, Civil Law and Procedure, Mechanics of Arrest, Defensive Tactics, Firearms, Crisis Intervention, Communications, First Aid and CPR, Courtroom Security, Prisoner Transportation, Professional Development, and Ethics. For this project in summer 1999, Temple conducted a statewide job task needs analysis.  The survey was administered by U.S. mail to the population of 67 county Sheriffs and approximately 1500 deputy sheriffs throughout the Commonwealth.  With a statistically significant survey response rate of 42%, Temple analyzed the data and concluded that the role of the Deputy Sheriff had expanded beyond the job task boundaries of the traditional civil law and courthouse functions.  It was determined that the Deputies were increasingly engaged in patrol functions, emergency vehicle operations, community-oriented law enforcement, service of protection from abuse orders, confiscation of firearms, motor vehicle code enforcement, and criminal investigations.  To validate this new information, Temple hosted three focus groups in the eastern, central, and western regions of the Commonwealth.  With Allentown, Harrisburg, and Pittsburgh as the focus group venues, sheriffs and deputies were invited to review the survey results with representatives from Temple University, and discuss the training policy implications with administrators from the Pennsylvania Commission on Crime and Delinquency.  With the survey’s findings validated in three focus groups, the proposal for an expanded training curriculum was reviewed and accepted by the Deputy Sheriffs' Education and Training Board and the Pennsylvania Commission on Crime and Delinquency.
+
+In the early spring of 2000, Temple began writing the first 560 hours of the Deputy Sheriffs' Basic Training Program that is required of all new deputy sheriffs in Pennsylvania hired after July 2000.  The 560 hour curriculum encompasses both the traditional civil court functions and training, and expanded law enforcement topics such as Criminal Law and Criminal Procedure, Cultural Diversity, Special Needs Groups, Families in Crisis and Domestic Violence, Emergency Vehicle Operations, Hate Crimes/Ethnic Intimidation, Physical Conditioning, and Less than Lethal Weapons.  Continuing this effort, CJTP wrote an addition 200 hours of the basic training including topics such as Motor Vehicle Code Enforcement, Accident Investigation, Principles of Criminal Investigation, Patrol Functions and Procedures, and Law Enforcement and Technology.  The total 760-hour curriculum project was completed in late 2001.  All presentations in the basic training were created in state of the art, multimedia intense format.  The curriculum includes extensive use of computer imaging, pictures, graphics, and videos and comes with Instructor Guides and Student Study Guides coordinated to the presentation. The entire curriculum is contained and stored on a 40 CD set or the equivalent of a 5 DVDs.
+
+
