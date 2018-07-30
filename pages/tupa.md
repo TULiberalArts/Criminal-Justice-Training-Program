@@ -9,9 +9,8 @@ description: >-
 keywords: ''
 # custom variables
 sidebar: true
-sidebar_content: sidebar_content: sidebars/cjtp.html
+sidebar_content: sidebars/cjtp.html
 ---
-
 ![TUPA]({{site.baseurl}}/media/police_academy_header.png){:.img-center}
 ## Temple University Municipal Police Academy
 The Municipal Police Academy developed from Temple University's desire to train its own campus safety personnel. In 1968, the unit was formed with the task of creating a 350-hour training program for Campus Safety Officers (in later years they became the Temple University Campus Police). In subsequent years, TUPA provided similar training services to other policing agencies. For example, between 1969 and 1980 CJTP provided 80-hours of training to every academy class graduating from the Philadelphia Police Department. In 1974 and 1975 the Pennsylvania Municipal Police Officers’ Education and Training Commission was formed and two Acts passed, Act 120 and Act 235. Temple University became certified by the Commonwealth as a school/academy to administer these programs. Since that time, TUPA has provided basic training to municipal, transit, housing, park, capitol, and campus police officers.
