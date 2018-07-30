@@ -1,13 +1,11 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
-keywords: ''
-description: >-
-  
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+# custom variables
+sidebar: false
 ---
-## Some Heading
-
-Some content.
-
