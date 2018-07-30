@@ -8,8 +8,7 @@ title: Temple University Police Academy
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
-sidebar_content: 
+sidebar: false 
 ---
 ![TUPA]({{site.baseurl}}/media/police_academy_header.png){:.img-center}
 ## Temple University Municipal Police Academy
