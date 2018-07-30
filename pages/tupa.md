@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Temple University Police Academy
 description: >-
+keywords: ''
 # custom variables
 sidebar: true
 sidebar_content: sidebar_content: sidebars/cjtp.html
