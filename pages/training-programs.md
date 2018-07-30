@@ -11,12 +11,6 @@ keywords: ''
 sidebar: false 
 ---
 ## Temple University Law Enforcement Academy
-### [National Park Service - Seasonal Law Enforcement Training Program (SLETP)](http://www.temple.edu/provost/university-college/sletp/)
-
-### [Municipal Police Officers' Basic Training Academy (ACT 120)](http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)
-
-### [Municipal Police Officers' In-Service Training Program (ACT 180)](http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)
-
 ### Deputy Sheriffs' Distance Learning Program (ACT 2)
 Temple University is pleased to announce the availability of the 2018 Distance-Learning Courses offered by the Pennsylvania Commission on Crime and Delinquency (PCCD) and the Deputy Sheriffs' Education and Training Board. There is no tuition cost for the training. A Temple University Certificate of Completion and Transcript of Training are issued to each deputy, and a copy to his/her Sheriff, at the end of the enrollment period for each course successfully completed. Please call Kevin P. Myers, Training Coordinator, at [(267) 468-8605](tel:2674688605).
 - [Distance Learning Registration Form](https://liberalarts.temple.edu/sites/liberalarts/files/2018%20%20Distance%20Learning%20Registration%20Form%20Electronic.pdf)
@@ -50,3 +44,9 @@ Temple University CJTP administers training for State Constables in the Eastern 
 Attention all Law Enforcement Professionals. Do you need an Instructor Development Course?  Do you want to improve your teaching skills or obtain an instructional foundations certificate that meets MPOETC and PCCD requirements? Then, this may be the course you need.  Temple University offers a 40-hour instructor development program at the Temple University Ambler Campus located in Montgomery County. In this course you will learn how to develop lesson plans, develop skills to manage a classroom, create written exams, properly utilize different training aids, and learn how to motivate your students.
 
 For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600. Or, send an e-mail to [cwillard@temple.edu](cwillard@temple.edu).
+
+### [National Park Service - Seasonal Law Enforcement Training Program (SLETP)](http://www.temple.edu/provost/university-college/sletp/)
+
+### [Municipal Police Officers' Basic Training Academy (ACT 120)](http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)
+
+### [Municipal Police Officers' In-Service Training Program (ACT 180)](http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)
