@@ -58,4 +58,4 @@ Ambler, Pennsylvania 19002-3996<br>
 425 Commerce Drive<br>
 Fort Washington, PA 19034<br>
 [(267) 468-8500](tel:2674688500)<br>
-- **[Directions and Map](https://liberalarts.temple.edu/sites/liberalarts/files/map_TU_Fort_Washington.pdf)
+- **[Directions and Map](https://liberalarts.temple.edu/sites/liberalarts/files/map_TU_Fort_Washington.pdf)**
