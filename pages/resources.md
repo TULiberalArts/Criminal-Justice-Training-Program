@@ -9,6 +9,14 @@ description: >-
 keywords: ''
 # custom variables
 ---
+## Career Opportunities 
+- [Sunbury Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/SunburyPD.pdf) 
+- [Upper Saucon Township Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/UPPER%20SAUCON%20TOWNSHIP.pdf)
+- [Central Bucks Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/Central%20Bucks.pdf)
+- [Montco Consortium of Communities & Warminster - Police Exam](https://liberalarts.temple.edu/sites/liberalarts/files/MontcoConsortium%20of%20Communities.pdf)
+
+___
+
 ![CSCS]({{site.baseurl}}/media/logo-academy.png){:.img-right}
 ## Temple Criminal Justice Training Programs Forms & Maps
 
@@ -20,7 +28,6 @@ keywords: ''
 - [CJTP_Academy_Transcript_Request_Form](https://liberalarts.temple.edu/sites/liberalarts/files/CJTP%20Academy%20Transcript%20Request%20Form%20Fillable.pdf)(PDF)
 
 ### Criminal Justice Training Programs Time Sheets
-
 - [Instructor Timesheet](https://liberalarts.temple.edu/sites/liberalarts/files/Instructor%20Timesheet.pdf) (PDF)
 - [Student Worker Timesheet](https://liberalarts.temple.edu/sites/liberalarts/files/Student%20Worker%20Timesheet.pdf)(PDF)
 
