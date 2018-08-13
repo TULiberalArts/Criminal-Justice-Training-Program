@@ -8,7 +8,8 @@ title: Training Programs
 description: >-
 keywords: ''
 # custom variables
-sidebar: false 
+sidebar: true
+sidebar_content: sidebars/training-program.html
 ---
 ## Temple University Law Enforcement Academy
 ### Deputy Sheriffs' Distance Learning Program (ACT 2)
