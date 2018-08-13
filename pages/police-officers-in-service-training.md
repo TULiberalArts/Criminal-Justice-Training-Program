@@ -31,7 +31,8 @@ For more information or to register for classes please contact one of the Police
 Attn: Chris Willard, Assistant Director**</br>
 Temple University Ambler Campus</br>
 580 Meetinghouse Road, Ambler, PA 19002</br>
-Office: (267) 468-8600 Email: [cwillard@temple.edu](mailto:cwillard@temple.edu)</br>
+Office: [(267) 468-8600](tel:2152048600)<br> 
+Email: [cwillard@temple.edu](mailto:cwillard@temple.edu)</br>
 [www.temple.edu/cjtp](www.temple.edu/cjtp)</br>
 
 **Bucks County Police Training Center**<br>
@@ -43,5 +44,6 @@ Office: (215) 340-8410<br>
 Attn: Joseph DelMastro, Finance & Administration Manager**<br>
 Temple University Main Campus<br>
 522 Gladfelter Hall, Philadelphia, PA 19122<br> 
-Office: (215) 204-9028 Email: [joseph.delmastro@temple.edu](mailto:joseph.delmastro@temple.edu)<br>
+Office: [(215) 204-9028](tel:2152049028)<br> 
+Email: [joseph.delmastro@temple.edu](mailto:joseph.delmastro@temple.edu)<br>
 [www.temple.edu/cjtp](www.temple.edu/cjtp)<br>
