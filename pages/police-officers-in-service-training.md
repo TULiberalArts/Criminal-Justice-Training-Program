@@ -8,7 +8,8 @@ title: Police Officers In Service Training
 description: >-
 keywords: ''
 # custom variables
-sidebar: false 
+sidebar: true
+sidebar_content: sidebars/training-program.html
 ---
 ## Police Officers' In-Service Training for 2018
 Temple University is pleased to announce the Police Officers' In-Service Training (Act 180) program offered through the Temple University Police Academy. Classes are offered at the Bucks County Police Training Center in Doylestown, Pennsylvania.
