@@ -34,14 +34,14 @@ Temple University Ambler Campus</br>
 Office: (267) 468-8600 Email: [cwillard@temple.edu](mailto:cwillard@temple.edu)</br>
 [www.temple.edu/cjtp](www.temple.edu/cjtp)</br>
 
-**Bucks County Police Training Center**</br>
-Attn: Richard Vona, Director</br>
-1760 South Easton Road, Doylestown, PA 18901</br>
-Office: (215) 340-8410</br>
+**Bucks County Police Training Center**<br>
+**Attn: Richard Vona, Director**<br>
+1760 South Easton Road, Doylestown, PA 18901<br>
+Office: (215) 340-8410<br>
 
-**Temple University Police Academy</br>
-Attn: Joseph DelMastro, Finance & Administration Manager**</br>
-Temple University Main Campus</br>
-522 Gladfelter Hall, Philadelphia, PA 19122</br> 
-Office: (215) 204-9028 Email: [joseph.delmastro@temple.edu](mailto:joseph.delmastro@temple.edu)</br>
-[www.temple.edu/cjtp](www.temple.edu/cjtp)</br>
+**Temple University Police Academy<br>
+Attn: Joseph DelMastro, Finance & Administration Manager**<br>
+Temple University Main Campus<br>
+522 Gladfelter Hall, Philadelphia, PA 19122<br> 
+Office: (215) 204-9028 Email: [joseph.delmastro@temple.edu](mailto:joseph.delmastro@temple.edu)<br>
+[www.temple.edu/cjtp](www.temple.edu/cjtp)<br>
