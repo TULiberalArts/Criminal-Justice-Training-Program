@@ -43,10 +43,10 @@ Temple University CJTP administers training for State Constables in the Eastern 
 
 Attention all Law Enforcement Professionals. Do you need an Instructor Development Course?  Do you want to improve your teaching skills or obtain an instructional foundations certificate that meets MPOETC and PCCD requirements? Then, this may be the course you need.  Temple University offers a 40-hour instructor development program at the Temple University Ambler Campus located in Montgomery County. In this course you will learn how to develop lesson plans, develop skills to manage a classroom, create written exams, properly utilize different training aids, and learn how to motivate your students.
 
-For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600. Or, send an e-mail to [cwillard@temple.edu](cwillard@temple.edu).
+For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600](tel:2674688600). Or, send an e-mail to [cwillard@temple.edu](mailto:cwillard@temple.edu).
 
-### [National Park Service - Seasonal Law Enforcement Training Program (SLETP)](http://www.temple.edu/provost/university-college/sletp/)
+- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)]**(http://www.temple.edu/provost/university-college/sletp/)
 
-### [Municipal Police Officers' Basic Training Academy (ACT 120)](http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)
+- **[Municipal Police Officers' Basic Training Academy (ACT 120)]**(http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)
 
-### [Municipal Police Officers' In-Service Training Program (ACT 180)](http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)
+- **[Municipal Police Officers' In-Service Training Program (ACT 180)]**(http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)
