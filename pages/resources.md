@@ -38,6 +38,8 @@ ___
 The Mileage Rate for Use of Personal Vehicle is reimbursed at the current GSA mileage rate, $0.545 cents per mile, for business miles driven from January 1, 2018, through December 31, 2018. Per Diem (at Federal Rate - U.S. GSA) applies *only* on overnight travel. See [GSA website](https://www.gsa.gov/travel/plan-book/per-diem-rates) more details.
 - [Travel and Expense Reimbursement Policy](https://liberalarts.temple.edu/sites/liberalarts/files/Travel%20and%20Expense%20Reimbursement%20Policy.pdf)(PDF)
 
+___
+
 ### Maps & Directions
 
 **Temple University Main Campus**<br>
