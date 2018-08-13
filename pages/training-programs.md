@@ -44,8 +44,8 @@ Attention all Law Enforcement Professionals. Do you need an Instructor Developme
 
 For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600](tel:2674688600). Or, send an e-mail to [cwillard@temple.edu](mailto:cwillard@temple.edu).
 
-- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)]**(http://www.temple.edu/provost/university-college/sletp/)
+- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](http://www.temple.edu/provost/university-college/sletp/)**
 
-- **[Municipal Police Officers' Basic Training Academy (ACT 120)]**(http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)
+- **[Municipal Police Officers' Basic Training Academy (ACT 120)](http://www.develop.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy)**
 
-- **[Municipal Police Officers' In-Service Training Program (ACT 180)]**(http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)
+- **[Municipal Police Officers' In-Service Training Program (ACT 180)](http://www.develop.cla.temple.edu/criminal-justice-training-program/police-officers-in-service-training)**
