@@ -8,8 +8,6 @@ title: Curriculum Projects
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/training-program.html
 ---
 ## Deputy Sheriffs' Curriculum Development Program
 Temple University's Criminal Justice Training Programs (CJTP), under contract to the Pennsylvania Deputy Sheriffs' Education and Training Board and the Pennsylvania Commission on Crime and Delinquency, is presently engaged in a curriculum development project to revise the Pennsylvania Deputy Sheriffs' Basic Training Curriculum. Originally written in 1984 by Temple University, the program included 160 hours of basic training in traditional deputy-related job functions. The original curriculum included topics such as Introduction to Criminal Justice, Unified Courts of Pennsylvania, Civil Law and Procedure, Mechanics of Arrest, Defensive Tactics, Firearms, Crisis Intervention, Communications, First Aid and CPR, Courtroom Security, Prisoner Transportation, Professional Development, and Ethics. 
