@@ -38,6 +38,16 @@ ___
 The Mileage Rate for Use of Personal Vehicle is reimbursed at the current GSA mileage rate, $0.545 cents per mile, for business miles driven from January 1, 2018, through December 31, 2018. Per Diem (at Federal Rate - U.S. GSA) applies *only* on overnight travel. See [GSA website](https://www.gsa.gov/travel/plan-book/per-diem-rates) more details.
 - [Travel and Expense Reimbursement Policy](https://liberalarts.temple.edu/sites/liberalarts/files/Travel%20and%20Expense%20Reimbursement%20Policy.pdf)(PDF)
 
+## Additional Useful Website Links
+- [Temple University Home](http://www.temple.edu/)
+- [Temple University Department of Criminal Justice](https://www.cla.temple.edu/criminal-justice/)  
+- [Temple University, Department of Public Safety](http://www.temple.edu/safety/)
+- [Administrative Office of Pennsylvania Courts](http://www.pacourts.us/judicial-administration/)
+- [Bucks County Public Safety Training Center](http://www.buckscounty.org/government/EmergencyServices/PublicSafety)
+- [Pennsylvania Commission on Crime and Delinquency](http://www.pccd.state.pa.us/)
+- [Pennsylvania Municipal Police Officers Education and Training Commission](http://www.mpoetc.state.pa.us/)
+- [Pennsylvania Board of Probation and Parole](http://www.pbpp.pa.gov/Pages/default.aspx)
+ 
 ___
 
 ### Maps & Directions
