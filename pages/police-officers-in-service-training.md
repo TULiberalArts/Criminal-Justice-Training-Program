@@ -27,13 +27,13 @@ For more information or to register for classes please contact one of the Police
 
 [act180inservice@temple.edu](mailto:act180inservice@temple.edu)
 
-**Temple University Police Academy</br> 
-Attn: Chris Willard, Assistant Director**</br>
-Temple University Ambler Campus</br>
-580 Meetinghouse Road, Ambler, PA 19002</br>
+**Temple University Police Academy<br> 
+Attn: Chris Willard, Assistant Director**<br>
+Temple University Ambler Campus<br>
+580 Meetinghouse Road, Ambler, PA 19002<br>
 Office: [(267) 468-8600](tel:2152048600)<br> 
-Email: [cwillard@temple.edu](mailto:cwillard@temple.edu)</br>
-[www.temple.edu/cjtp](www.temple.edu/cjtp)</br>
+Email: [cwillard@temple.edu](mailto:cwillard@temple.edu)<br>
+[www.temple.edu/cjtp](www.temple.edu/cjtp)<br>
 
 **Bucks County Police Training Center**<br>
 **Attn: Richard Vona, Director**<br>
