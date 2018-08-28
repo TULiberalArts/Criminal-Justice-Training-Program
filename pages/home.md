@@ -9,6 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: Temple University Criminal Justice Training Programs
 feature-image: media/CJTP hero.jpg
