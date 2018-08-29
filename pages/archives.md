@@ -13,7 +13,7 @@ keywords: ''
 
 ![John Slaughter]({{site.baseurl}}/media/resized towamencin.jpg){:.img-right}
 **New Towamencin officer sworn in, longtime detective promoted.**
-Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting. Read the [full story](http://www.thereporteronline.com/general-news/20170426/new-towamencin-officer-sworn-in-longtime-detective-promoted)
+Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
 
 ___
 
