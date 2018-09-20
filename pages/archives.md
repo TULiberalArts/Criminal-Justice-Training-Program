@@ -16,6 +16,11 @@ keywords: ''
 Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
 
 
+
+
+
+
+
 ___
 
 ![Upper Dublin]({{site.baseurl}}/media/resized2 Upper Dublin.jpg){:.img-right}
