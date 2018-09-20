@@ -23,7 +23,7 @@ UDHS graduate was with Hatfield police. Read the [full story](http://www.montgom
 
 ___
 
-![William Tanner]({{site.baseurl}}/media/resized tanner.jpg){:.img-left}
+![William Tanner]({{site.baseurl}}/media/resized2 tanner.jpg){:.img-left}
 Falls Township has welcomed a new police officer to its force. Willam Tanner a married father of three who graduated from the Temple University Municipal Police Academy, had worked as a police officer in New Hope prior to beginning his work in Falls Township, according to officials. Read the [full story](http://levittownnow.com/2016/05/20/falls-twp-welcomes-new-officer-updates-community-department/)
 
 ___
