@@ -17,7 +17,7 @@ keywords: ''
 
 ___
 
-![CSCS]({{site.baseurl}}/media/logo-academy.png){:.img-right}
+![CSCS]({{site.baseurl}}/media/logo-academy.png){:.responsive-img .img-right}
 ## Temple Criminal Justice Training Programs Forms & Maps
 
 - [CJTP_MPO 210 Physical Examination](https://liberalarts.temple.edu/sites/liberalarts/files/MPO%20210%20Physical%20Examination.pdf)(PDF)
