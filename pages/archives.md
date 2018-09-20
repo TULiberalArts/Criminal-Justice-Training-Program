@@ -11,7 +11,7 @@ keywords: ''
 ---
 ### This brand new portion of the CJTP website will periodically post updates on our graduates. Take a look and see how graduates of our Police Academy and Law Enforcement Training Programs are contributing to public safety in our communites through continued professional growth.
 
-![John Slaughter]({{site.baseurl}}/media/resized towamencin.jpg){:.img-right}
+![John Slaughter]({{site.baseurl}}/media/resized towamencin.jpg){:.img-left}
 **New Towamencin officer sworn in, longtime detective promoted.**
 Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
 
@@ -23,7 +23,7 @@ UDHS graduate was with Hatfield police. Read the [full story](http://www.montgom
 
 ___
 
-![William Tanner]({{site.baseurl}}/media/resized tanner.jpg){:.img-right}
+![William Tanner]({{site.baseurl}}/media/resized tanner.jpg){:.img-left}
 Falls Township has welcomed a new police officer to its force. Willam Tanner a married father of three who graduated from the Temple University Municipal Police Academy, had worked as a police officer in New Hope prior to beginning his work in Falls Township, according to officials. Read the [full story](http://levittownnow.com/2016/05/20/falls-twp-welcomes-new-officer-updates-community-department/)
 
 ___
