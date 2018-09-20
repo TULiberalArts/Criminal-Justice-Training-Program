@@ -19,7 +19,7 @@ Temple University is pleased to announce the availability of the 2018 Distance-L
 Temple University is pleased to host the Deputy Sheriffs' Continuing Education Courses through the Pennsylvania Commission on Crime and Delinquency (PCCD) and the Deputy Sheriffs' Education and Training Board. For further information about the registration process, please call Kevin P. Myers, Training Coordinator, at [(267) 468-8605](tel:2674688605).
 - [Website](http://www.pccd.pa.gov/training/Pages/Deputy-Sheriffs'-Education-and-Training-Program.aspx)
 
-![2017 Security Officers Ceremony]({{site.baseurl}}/media/resized 2017 CAP Officers.jpg){:.img-right}
+![2017 Security Officers Ceremony]({{site.baseurl}}/media/resized 2017 CAP Officers.jpg){:.responsive-img .img-right}
 ### Charter School Officers' Training Program
 **Community Academy of Philadelphia Security Officers' Training**
 The Community Academy of Philadelphia, a Pennsylvania Charter School, engaged Temple University Criminal Justice Training Programs (CJTP) to administer a Training Needs Analysis (TNA) to identify the essential jobs skills of the Security Staff who perform safety and security functions on the grounds of the Community Academy of Philadelphia. A review of the security officer job functions, current and envisioned responsibilities, relevant agency policy and procedure, and later, a content review of the newly created course materials informed the development of an 80+ hour Basic Training Program titled, School Safety Training for Security Staff of the Community Academy of Philadelphia.
