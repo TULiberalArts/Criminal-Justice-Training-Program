@@ -11,15 +11,11 @@ keywords: ''
 ---
 ### This brand new portion of the CJTP website will periodically post updates on our graduates. Take a look and see how graduates of our Police Academy and Law Enforcement Training Programs are contributing to public safety in our communites through continued professional growth.
 
-![John Slaughter]({{site.baseurl}}/media/resized2 towamencin.jpg){:.img-right}
+___
+
 **New Towamencin officer sworn in, longtime detective promoted.**
+![John Slaughter]({{site.baseurl}}/media/resized2 towamencin.jpg){:.img-right}
 Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
-
-
-
-
-
-
 
 ___
 
