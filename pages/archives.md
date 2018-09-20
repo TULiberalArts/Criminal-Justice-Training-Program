@@ -11,13 +11,13 @@ keywords: ''
 ---
 ### This brand new portion of the CJTP website will periodically post updates on our graduates. Take a look and see how graduates of our Police Academy and Law Enforcement Training Programs are contributing to public safety in our communites through continued professional growth.
 
-![John Slaughter]({{site.baseurl}}/media/resized towamencin.jpg){:.img-left}
+![John Slaughter]({{site.baseurl}}/media/resized2 towamencin.jpg){:.img-left}
 **New Towamencin officer sworn in, longtime detective promoted.**
 Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
 
 ___
 
-![Upper Dublin]({{site.baseurl}}/media/resized Upper Dublin.jpg){:.img-right}
+![Upper Dublin]({{site.baseurl}}/media/resized2 Upper Dublin.jpg){:.img-right}
 **Upper Dublin Police Department Welcomes New Officer**
 UDHS graduate was with Hatfield police. Read the [full story](http://www.montgomerynews.com/amblergazette/news/upper-dublin-police-department-welcomes-new-officer/article_bcacc8ef-f37b-5d38-a5f1-339c1b6f2e64.html)
 
