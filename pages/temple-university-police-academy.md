@@ -8,7 +8,6 @@ title: Temple University Police Academy
 description: >-
 keywords: ''
 # custom variables
-sidebar: 
 ---
 ![TUPA]({{site.baseurl}}/media/police_academy_header.png){:.responsive-img .img-center}
 ## Temple University Municipal Police Academy
@@ -19,7 +18,7 @@ _Applications are reviewed as they are received. For more information about appl
 **TUPA Class 18-02 Is Now Accepting applications for the September 2018 class.**
 - Physical Fitness Test Dates are scheduled for Tuesday July 31, 2018 & Thursday August 9, 2018.
 - All tests will begin at 0930hours and applicants are to report to Director Willard’s Office located in 122 West Hall.
-- Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly. 
+- Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly.
 
 In order to be eligible to participate in the test, applicants must have submitted their on-line application, have had their MPOETC medical exam completed and submitted, as well as contacted Director Willard via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu) to register for the test.
 

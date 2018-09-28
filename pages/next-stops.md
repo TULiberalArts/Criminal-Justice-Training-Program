@@ -8,6 +8,4 @@ title: Next Stops
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
-
