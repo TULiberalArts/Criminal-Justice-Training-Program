@@ -7,6 +7,8 @@ published: true
 title: Staff
 description: >-
 keywords: ''
+#ustom variables
+#faculty: profiles/faculty.htmls
 ---
 ## Criminal Justice Training Program Staff
 
