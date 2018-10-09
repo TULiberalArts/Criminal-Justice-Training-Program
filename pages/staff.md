@@ -26,36 +26,36 @@ keywords: ''
    ___
      
    Joseph DelMastro, Finance and Administrative Manager     
-   [(215) 204-8600](tel:2154688600)  
+   [(215) 204-9028](tel:2154689028)  
    [joseph.delmastro@temple.edu](mailto:joseph.delmastro@temple.edu)  
    
    ___
    
    **Ambler Campus Staff:**  
    Christie Willard, Assistant Director and Police Academy Director        
-   [(215) 204-8600](tel:2674688600)  
-   Fax: [(267) 468-8600](tel:2674688600)    
+   [(267) 468-8600](tel:2674688600)  
+   Fax: [(267) 468-8660](tel:2674688660)    
    [cwillard@temple.edu](mailto:cwillard@temple.edu)  
    
    ___
    
    Deidre Beiter, Coordinator-Constable's Training Program        
    [(267) 468-8331](tel:2674688331)  
-   Fax: [(267) 468-8600](tel:2674688600)
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   Fax: [(267) 468-8660](tel:2674688660)
+   [deidre.sherman@temple.edu](mailto:deidre.sherman@temple.edu)  
   
    ___
     
    Kevin P. Myers, Coordinator-Deputy Sheriff's Training Program  
    [(267) 468-8605](tel:2674688605)  
-   Fax: [(267) 468-8600](tel:2674688600)  
+   Fax: [(267) 468-8660](tel:2674688660)  
    [kevin.myers0001@temple.edu](mailto:kevin.myers0001@temple.edu)  
 
    ___
      
    Michael Kane, Online Learning Specialist-Deputy Sheriffs Training Program         
    [(267) 468-8600](tel:2674688600)    
-   Fax: [(267) 468-8600](tel:2674688600)   
+   Fax: [(267) 468-8660](tel:2674688660)   
    [mjkane@temple.edu](mailto:mjkane@temple.edu)  
    
    ___
