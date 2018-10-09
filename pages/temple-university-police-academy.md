@@ -15,18 +15,17 @@ The Municipal Police Academy developed from Temple University's desire to train 
 
 _Applications are reviewed as they are received. For more information about applying on-line, contact [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or call [(267) 468-8600](tel:2674688600)._
 
-**TUPA Class 18-02 Is Now Accepting applications for the September 2018 class.**
-- Physical Fitness Test Dates are scheduled for Tuesday July 31, 2018 & Thursday August 9, 2018.
-- All tests will begin at 0930hours and applicants are to report to Director Willard’s Office located in 122 West Hall.
-- Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly.
+**TUPA Class 19-01 is now Accepting Applications for the May 2019 class.**
+Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly. In order to be eligible to participate in the test, applicants must have submitted their on-line application, have had their MPOETC medical exam completed and submitted, as well as contacted Director Willard via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu) to register for the test.
 
-In order to be eligible to participate in the test, applicants must have submitted their on-line application, have had their MPOETC medical exam completed and submitted, as well as contacted Director Willard via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu) to register for the test.
-
-**Class 18-02 Academy Dates:**
-- Application Deadline: Friday August 17, 2018
-- Program Dates: September 10, 2018- February 15, 2019
+**Class 19-01 Academy Dates:**
+- **Program Dates:** May 2019 - October 2019 (Actual dates TBD)
 - Applications can be completed on-line and are reviewed as soon as they are received.
-- For more information about applying on-line, you may e-mail [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or to speak to someone in person, please call [(267) 468-8600](tel:2674688600).
+- **Application Deadline:** Friday April 19, 2019
+- Physical Fitness Test Dates are TBD.
+- All tests will begin at 0930hours and applicants are to report to Director Willard’s Office located in **202 West Hall.**
+
+For more information about applying on-line, you may e-mail [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or to speak to someone in person, please call [(267) 468-8600](tel:2674688600).
 
 **Temple University Municipal Police Academy is offering to waive the academy application fee ($75.00) for current and recent graduates of Bucks County Community College and Penn State Abington. In order to be considered for the waiver, the applicant must be able to provide proof of attendance within the past school year or of graduation. Please contact Police Academy Director, Chris Willard for further details at [(267) 468-8600](tel:2674688600) or via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu).
 
