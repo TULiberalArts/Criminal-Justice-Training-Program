@@ -21,7 +21,7 @@ Temple University is pleased to host the Deputy Sheriffs' Continuing Education C
 
 ![2017 Security Officers Ceremony]({{site.baseurl}}/media/resized 2017 CAP Officers.jpg){:.responsive-img .img-right}
 ### Charter School Officers' Training Program
-**Community Academy of Philadelphia Security Officers' Training**
+**Community Academy of Philadelphia Security Officers' Training**<br>
 The Community Academy of Philadelphia, a Pennsylvania Charter School, engaged Temple University Criminal Justice Training Programs (CJTP) to administer a Training Needs Analysis (TNA) to identify the essential jobs skills of the Security Staff who perform safety and security functions on the grounds of the Community Academy of Philadelphia. A review of the security officer job functions, current and envisioned responsibilities, relevant agency policy and procedure, and later, a content review of the newly created course materials informed the development of an 80+ hour Basic Training Program titled, School Safety Training for Security Staff of the Community Academy of Philadelphia.
 
 The training delivery was accomplished using a combination of traditional classroom presentations, including lectures and discussion, as well as role-playing and judgmentalscenarios, and problem-solving exercises. CAP security officers completed a written session evaluation for each of the training classes. At the conclusion of both the Basic Training and the Continuing Education programs, Temple University issued Certificates of Completion to each CAP security officer who successfully completed the training and obtained a passing grade on the final examination.
