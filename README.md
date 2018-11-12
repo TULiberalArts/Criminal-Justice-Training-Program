@@ -7,7 +7,7 @@ Criminal Justice Training Program is statically generated with [Jekyll](https://
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/criminal-justice-training-program/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/criminal-justice-training-program/ |
 
 ## Content Structure
 
