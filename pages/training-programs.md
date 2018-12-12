@@ -44,4 +44,4 @@ Attention all Law Enforcement Professionals. Do you need an Instructor Developme
 
 For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600](tel:2674688600). Or, send an e-mail to [cwillard@temple.edu](mailto:cwillard@temple.edu).
 
-- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](https://www.temple.edu/provost/university-college/sletp/)**
+- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011)**
