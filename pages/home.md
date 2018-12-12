@@ -25,7 +25,7 @@ ___
     title="Seasonal Law Enforcement Training Program"
     content="Temple’s SLETP is a full-time, federally-accredited (FLETA) 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
     image=""
-    button-link="http://www.temple.edu/provost/university-college/sletp/"
+    button-link="https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
