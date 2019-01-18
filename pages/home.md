@@ -23,6 +23,8 @@ Criminal Justice Training Programs, a division of the Temple University Departme
 
 **_The event is free but those interested must register. [APPLY NOW!](https://noncredit.temple.edu/search/publicCourseSearchDetails.do?method=load&courseId=24804081)_**
 
+_For questions or registration assistance, please contact Police Academy Director Chris Willard [267-468-8600](tel:2674688600) or [cwillard@temple.edu](mailto:cwillard@temple.edu)._
+
 ___
 
 <div class="row row-wide">
