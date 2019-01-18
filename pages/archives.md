@@ -14,20 +14,25 @@ keywords: ''
 ___
 
 **New Towamencin officer sworn in, longtime detective promoted.**
-![John Slaughter]({{site.baseurl}}/media/resized2 towamencin.jpg){:.img-right}
+![John Slaughter]({{site.baseurl}}/media/resized3 towamencin.jpg){:.img-right}
 Towamencin police officer John Slaughter and Sgt. Michael Paul pose for a photo after receiving their new ranks in a ceremony at the township supervisors meeting.
 
 ___
 
-![Upper Dublin]({{site.baseurl}}/media/resized2 Upper Dublin.jpg){:.img-right}
+![Upper Dublin]({{site.baseurl}}/media/resized3 Upper Dublin.jpg){:.img-right}
 **Upper Dublin Police Department Welcomes New Officer**
-UDHS graduate was with Hatfield police. Read the [full story](http://www.montgomerynews.com/amblergazette/news/upper-dublin-police-department-welcomes-new-officer/article_bcacc8ef-f37b-5d38-a5f1-339c1b6f2e64.html)
+UDHS graduate was with Hatfield police. Read the [full story.](http://www.montgomerynews.com/amblergazette/news/upper-dublin-police-department-welcomes-new-officer/article_bcacc8ef-f37b-5d38-a5f1-339c1b6f2e64.html)
 
 
 ___
 
 ![William Tanner]({{site.baseurl}}/media/resized2 tanner.jpg){:.img-left}
 Falls Township has welcomed a new police officer to its force. Willam Tanner a married father of three who graduated from the Temple University Municipal Police Academy, had worked as a police officer in New Hope prior to beginning his work in Falls Township, according to officials. Read the [full story](http://levittownnow.com/2016/05/20/falls-twp-welcomes-new-officer-updates-community-department/)
+
+___
+
+![Gina and Megan]({{site.baseurl}}/media/resized ChiefBellizzieKlostermanFerzettiSnow.jpg){:.img-left}
+Solebury Township Police Welcome Their First Female Officers. Gina Ferzetti and Megan Klosterman were sworn in as Solebury Township police officers by Magisterial District Judge Maggie Snow before the Solebury Board of Supervisors at their public meeting Tuesday evening. Read the [full story](https://www.newhopefreepress.com/2019/01/16/solebury-township-police-welcome-their-first-female-officers/). 
 
 ___
 
