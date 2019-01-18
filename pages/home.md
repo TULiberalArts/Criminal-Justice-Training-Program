@@ -11,7 +11,7 @@ keywords: ''
 promotion-table: true
 feature: true
 feature-title: Temple University Criminal Justice Training Programs
-feature-image: media/CJTP Police logo.png
+feature-image: media/CJTP hero.jpg  
 feature-body: >-
 ---
 ![CSCS]({{site.baseurl}}/media/Pro Ranger.jpg){:.responsive-img .img-right}
