@@ -18,6 +18,11 @@ feature-body: >-
 ## Temple University Criminal Justice Training Programs
 Criminal Justice Training Programs, a division of the Temple University Department of Criminal Justice, is an interdisciplinary unit that has conducted professional development programs for a variety of criminal justice agencies and occupations since 1968. Today, over 3,000 criminal justice professionals attend programs offered by CJTP each year including police officers, deputy sheriffs, state constables, legislative security officers, magisterial district court staff, school resource officers, park rangers, and crime prevention specialists. Other activities include continuing education programs for agencies allied to the criminal justice system, and the development of curricula including distance-learning. For the latest news and developments, please see the announcements below.
 
+## Temple University Police Academy Open House
+**Temple University Police Academy** is holding an open house for those interested in attending the Act 120 Municipal Police Academy. There will be a brief presentation followed by question and answer session. Academy staff and Police Academy alum will be on hand to answer questions. Light refreshments will be served. The event will be conducted on **Tuesday March 12th, 2019 from 5:00 pm to 7:00 pm**. The program will take place at Temple University Ambler, located at 580 Meetinghouse Rd, Ambler in the Bright Hall Lounge Applicants who attend and gain acceptance to the program are eligible to have the application fee waived.
+
+**_The event is free but those interested must register. [Apply Now!](https://noncredit.temple.edu/search/publicCourseSearchDetails.do?method=load&courseId=24804081)_**
+
 ___
 
 <div class="row row-wide">
