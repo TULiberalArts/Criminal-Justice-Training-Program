@@ -12,10 +12,6 @@ keywords: ''
 ## Career Opportunities 
 - [Ambler Test Announcement- Application For Examination for Probationary
 Police Officer](https://liberalarts.temple.edu/sites/liberalarts/files/Ambler%20Test%20Announcement.pdf)
-- [Sunbury Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/SunburyPD.pdf) 
-- [Upper Saucon Township Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/UPPER%20SAUCON%20TOWNSHIP.pdf)
-- [Central Bucks Police Department](https://liberalarts.temple.edu/sites/liberalarts/files/Central%20Bucks.pdf)
-- [Montco Consortium of Communities & Warminster - Police Exam](https://liberalarts.temple.edu/sites/liberalarts/files/MontcoConsortium%20of%20Communities.pdf)
 
 ___
 
