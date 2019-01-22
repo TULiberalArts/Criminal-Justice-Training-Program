@@ -18,12 +18,6 @@ keywords: ''
    [aluongo@temple.edu](mailto:aluongo@temple.edu)  
    
    ___
-    
-   Sabrina Herrington, Program Specialist     
-   [(215) 204-3909](tel:2152043909)  
-   [sreels@temple.edu](mailto:sreels@temple.edu)  
-   
-   ___
      
    Joseph DelMastro, Finance and Administrative Manager     
    [(215) 204-9028](tel:2154689028)  
