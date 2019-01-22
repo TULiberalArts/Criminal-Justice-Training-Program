@@ -19,6 +19,13 @@ Temple University is pleased to announce the availability of the 2018 Distance-L
 Temple University is pleased to host the Deputy Sheriffs' Continuing Education Courses through the Pennsylvania Commission on Crime and Delinquency (PCCD) and the Deputy Sheriffs' Education and Training Board. For further information about the registration process, please call Kevin P. Myers, Training Coordinator, at [(267) 468-8605](tel:2674688605).
 - [Website](http://www.pccd.pa.gov/training/Pages/Deputy-Sheriffs'-Education-and-Training-Program.aspx)
 
+### National Park Service - Seasonal Law Enforcement Training Program (SLETP)
+Temple University’s SLETP is a full-time, federally accredited 18-week program consisting of more than 680 hours of instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal Type II law enforcement ranger. The curriculum includes instruction in visitor and resource protection, federal law and procedure, authority and jurisdiction, natural and cultural resource management, officer safety and survival skills, and physical conditioning. Upon successful completion of the program, students are awarded a certificate of completion and participate in a graduation and an awards ceremony highlighting distinguished achievement in academics, marksmanship, driving, leadership and physical fitness.
+
+For more information about this program, please contact Anthony J. Luongo, Director-SLETP, at [(215) 204-7930](tel:2152047930). Or, send an e-mail to [aluongo@temple.edu](mailto:aluongo@temple.edu).
+
+- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011)**
+
 ![2017 Security Officers Ceremony]({{site.baseurl}}/media/resized 2017 CAP Officers.jpg){:.responsive-img .img-right}
 ### Charter School Officers' Training Program
 **Community Academy of Philadelphia Security Officers' Training**<br>
@@ -43,5 +50,3 @@ Temple University CJTP administers training for State Constables in the Eastern 
 Attention all Law Enforcement Professionals. Do you need an Instructor Development Course?  Do you want to improve your teaching skills or obtain an instructional foundations certificate that meets MPOETC and PCCD requirements? Then, this may be the course you need.  Temple University offers a 40-hour instructor development program at the Temple University Ambler Campus located in Montgomery County. In this course you will learn how to develop lesson plans, develop skills to manage a classroom, create written exams, properly utilize different training aids, and learn how to motivate your students.
 
 For more information about this course, please contact Chris Willard, Program Coordinator, at [(267)-468-8600](tel:2674688600). Or, send an e-mail to [cwillard@temple.edu](mailto:cwillard@temple.edu).
-
-- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011)**
