@@ -12,6 +12,7 @@ keywords: ''
 ## Career Opportunities 
 - [Ambler Test Announcement- Application For Examination for Probationary
 Police Officer](https://liberalarts.temple.edu/sites/liberalarts/files/Ambler%20Test%20Announcement.pdf)
+- [Township of Spring Police Department - Police Officer](https://liberalarts.temple.edu/sites/liberalarts/files/SpringPolice.pdf)
 
 ___
 
