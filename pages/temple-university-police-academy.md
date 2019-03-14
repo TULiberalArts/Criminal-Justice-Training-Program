@@ -27,7 +27,9 @@ Applicants must bring their driver’s license and proof of health insurance at 
 
 For more information about applying on-line, you may e-mail [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or to speak to someone in person, please call [(267) 468-8600](tel:2674688600).
 
-**Temple University Municipal Police Academy is offering to waive the academy application fee ($75.00) for current and recent graduates of Bucks County Community College and Penn State Abington. In order to be considered for the waiver, the applicant must be able to provide proof of attendance within the past school year or of graduation. Please contact Police Academy Director, Chris Willard for further details at [(267) 468-8600](tel:2674688600) or via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu).
+**Temple University Municipal Police Academy is offering to waive the academy application fee ($75.00) for current and recent graduates of Bucks County Community College and Penn State Abington. In hopes of making the police academy more accessible to all applicants, Temple University Police Academy is offering limited payment plan on a case by case basis, please contact [Director Willard](mailto:cwillard@temple.edu) for additional information. In order to be considered for the waiver, the applicant must be able to provide proof of attendance within the past school year or of graduation.** 
+
+**Please contact Police Academy Director, Chris Willard for further details at [(267) 468-8600](tel:2674688600) or via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu).**
 
 **Temple University Police Academy is a stand-alone Academy and is not affiliated with Temple University Police Department. Attending the Temple Police Academy does not guarantee employment with the Temple University Police Department.**
 
