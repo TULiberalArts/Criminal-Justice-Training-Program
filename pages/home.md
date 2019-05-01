@@ -25,6 +25,8 @@ Criminal Justice Training Programs, a division of the Temple University Departme
 
 _For questions or registration assistance, please contact Police Academy Director Chris Willard [267-468-8600](tel:2674688600) or [cwillard@temple.edu](mailto:cwillard@temple.edu)._
 
+
+![PRLEA]({{site.baseurl}}/media/resized PRLEA.jpg){:.responsive-img .img-right}
 ### Seasonal Law Enforcement Training Program Update<br>
 **The National Park Service has officially changed the name of the Seasonal Law Enforcement Training Program or S.L.E.T.P to Park Ranger Law Enforcement Academy or P.R.L.E.A. There are no changes to the academy, same requirements, same number of training hours, same curriculum.** It will take some time to make the name change on digital media, paperwork, applications etc. Please be patient while we make these updates.  The Park Service also introduced a new academy emblem to reflect the name change. 
 
