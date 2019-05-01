@@ -25,12 +25,17 @@ Criminal Justice Training Programs, a division of the Temple University Departme
 
 _For questions or registration assistance, please contact Police Academy Director Chris Willard [267-468-8600](tel:2674688600) or [cwillard@temple.edu](mailto:cwillard@temple.edu)._
 
+### Seasonal Law Enforcement Training Program Update<br>
+**The National Park Service has officially changed the name of the Seasonal Law Enforcement Training Program or S.L.E.T.P to Park Ranger Law Enforcement Academy or P.R.L.E.A. There are no changes to the academy, same requirements, same number of training hours, same curriculum.** It will take some time to make the name change on digital media, paperwork, applications etc. Please be patient while we make these updates.  The Park Service also introduced a new academy emblem to reflect the name change. 
+
+_If you have any questions, please contact Assistant Director Willard at [cwillard@temple.edu](mailto:cwillard@temple.edu)_. 
+
 ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Seasonal Law Enforcement Training Program"
-    content="Temple’s SLETP is a full-time, federally-accredited (FLETA) 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
+    title="Park Ranger Law Enforcement Academy"
+    content="Temple’s PRLEA is a full-time, federally-accredited (FLETA) 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
     image=""
     button-link="https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011"
     button-text="Learn More" %}
