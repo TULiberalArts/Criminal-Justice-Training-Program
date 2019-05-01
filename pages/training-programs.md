@@ -19,12 +19,16 @@ Temple University is pleased to announce the availability of the 2018 Distance-L
 Temple University is pleased to host the Deputy Sheriffs' Continuing Education Courses through the Pennsylvania Commission on Crime and Delinquency (PCCD) and the Deputy Sheriffs' Education and Training Board. For further information about the registration process, please call Kevin P. Myers, Training Coordinator, at [(267) 468-8605](tel:2674688605).
 - [Website](http://www.pccd.pa.gov/training/Pages/Deputy-Sheriffs'-Education-and-Training-Program.aspx)
 
-### National Park Service - Seasonal Law Enforcement Training Program (SLETP)
-Temple University’s SLETP is a full-time, federally accredited 18-week program consisting of more than 680 hours of instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal Type II law enforcement ranger. The curriculum includes instruction in visitor and resource protection, federal law and procedure, authority and jurisdiction, natural and cultural resource management, officer safety and survival skills, and physical conditioning. Upon successful completion of the program, students are awarded a certificate of completion and participate in a graduation and an awards ceremony highlighting distinguished achievement in academics, marksmanship, driving, leadership and physical fitness.
+___
 
-For more information about this program, please contact Anthony J. Luongo, Director-SLETP, at [(215) 204-7930](tel:2152047930). Or, send an e-mail to [aluongo@temple.edu](mailto:aluongo@temple.edu).
+### National Park Service - Park Ranger Law Enforcement Academy (P.R.L.E.A.)
+Temple University’s Park Ranger Law Enforcement Academy is a full-time, federally accredited 18-week program consisting of more than 680 hours of instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal Type II law enforcement ranger. The curriculum includes instruction in visitor and resource protection, federal law and procedure, authority and jurisdiction, natural and cultural resource management, officer safety and survival skills, and physical conditioning. Upon successful completion of the program, students are awarded a certificate of completion and participate in a graduation and an awards ceremony highlighting distinguished achievement in academics, marksmanship, driving, leadership and physical fitness.
 
-- **[National Park Service - Seasonal Law Enforcement Training Program (SLETP)](https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011)**
+For more information about this program, please contact Anthony J. Luongo, Director-P.R.L.E.A., at [(215) 204-7930](tel:2152047930). Or, send an e-mail to [aluongo@temple.edu](mailto:aluongo@temple.edu).
+
+- **[Park Ranger Law Enforcement Academy (P.R.L.E.A.)](https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011)**
+
+___
 
 ![2017 Security Officers Ceremony]({{site.baseurl}}/media/resized 2017 CAP Officers.jpg){:.responsive-img .img-right}
 ### Charter School Officers' Training Program
@@ -32,6 +36,8 @@ For more information about this program, please contact Anthony J. Luongo, Direc
 The Community Academy of Philadelphia, a Pennsylvania Charter School, engaged Temple University Criminal Justice Training Programs (CJTP) to administer a Training Needs Analysis (TNA) to identify the essential jobs skills of the Security Staff who perform safety and security functions on the grounds of the Community Academy of Philadelphia. A review of the security officer job functions, current and envisioned responsibilities, relevant agency policy and procedure, and later, a content review of the newly created course materials informed the development of an 80+ hour Basic Training Program titled, School Safety Training for Security Staff of the Community Academy of Philadelphia.
 
 The training delivery was accomplished using a combination of traditional classroom presentations, including lectures and discussion, as well as role-playing and judgmentalscenarios, and problem-solving exercises. CAP security officers completed a written session evaluation for each of the training classes. At the conclusion of both the Basic Training and the Continuing Education programs, Temple University issued Certificates of Completion to each CAP security officer who successfully completed the training and obtained a passing grade on the final examination.
+
+___
 
 ### Constables' Basic, Continuing Education, and Firearms Training (ACT 49)
 **Pennsylvania State Constables' Training (Act 49)**
@@ -43,6 +49,8 @@ Temple University CJTP administers training for State Constables in the Eastern 
 
 - [Constable's Education & Training Board Website](http://www.pccd.pa.gov/training/Pages/Constables'-Education-and-Training-Board.aspx)
 - [Constable's 2018 Training Schedule](https://liberalarts.temple.edu/sites/liberalarts/files/2018%20Constables%20Training%20Schedule.pdf)
+
+___
  
 ### MOI / Instructor Development Program
 **Instructor Development Program**
