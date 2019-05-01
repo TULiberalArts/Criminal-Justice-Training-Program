@@ -25,6 +25,7 @@ Criminal Justice Training Programs, a division of the Temple University Departme
 
 _For questions or registration assistance, please contact Police Academy Director Chris Willard [267-468-8600](tel:2674688600) or [cwillard@temple.edu](mailto:cwillard@temple.edu)._
 
+___
 
 ![PRLEA]({{site.baseurl}}/media/resized2 PRLEA.jpg){:.responsive-img .img-right}
 ### Seasonal Law Enforcement Training Program Update<br>
