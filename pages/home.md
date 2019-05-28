@@ -37,8 +37,8 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Park Ranger Law Enforcement Academy (P.R.L.E.A.)"
-    content="Temple’s P.R.L.E.A. is a full-time, federally-accredited (FLETA) 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
+    title="Park Ranger Law Enforcement Academy (PRLEA)"
+    content="Temple’s PRLEA is a 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
     image=""
     button-link="https://noncredit.temple.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=7325011"
     button-text="Learn More" %}
