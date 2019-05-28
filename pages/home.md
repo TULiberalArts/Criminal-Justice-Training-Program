@@ -29,7 +29,7 @@ ___
 
 ![PRLEA]({{site.baseurl}}/media/resized2 PRLEA.jpg){:.responsive-img .img-right}
 ### Seasonal Law Enforcement Training Program Update<br>
-**The National Park Service has officially changed the name of the Seasonal Law Enforcement Training Program or S.L.E.T.P to Park Ranger Law Enforcement Academy or P.R.L.E.A. There are no changes to the academy, same requirements, same number of training hours, same curriculum.** It will take some time to make the name change on digital media, paperwork, applications etc. Please be patient while we make these updates.  The Park Service also introduced a new academy emblem to reflect the name change. 
+**The National Park Service has officially changed the name of the Seasonal Law Enforcement Training Program or S.L.E.T.P to Park Ranger Law Enforcement Academy or PRLEA. There are no changes to the academy, same requirements, same number of training hours, same curriculum.** It will take some time to make the name change on digital media, paperwork, applications etc. Please be patient while we make these updates.  The Park Service also introduced a new academy emblem to reflect the name change. 
 
 _If you have any questions, please contact Assistant Director Willard at [cwillard@temple.edu](mailto:cwillard@temple.edu)_. 
 
