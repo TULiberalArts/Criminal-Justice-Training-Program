@@ -15,6 +15,8 @@ The Municipal Police Academy developed from Temple University's desire to train 
 
 _Applications are reviewed as they are received. For more information about applying on-line, contact [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or call [(267) 468-8600](tel:2674688600)._
 
+**_Class 19-02 starts September 16th with anticipated graduation date the first week of March 2020. Application Deadline is Friday August 30th._**
+
 ### TUPA Class 19-01 is now Accepting Applications for the May 2019 Class!
 Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly. In order to be eligible to participate in the test, applicants must have submitted their on-line application, have had their MPOETC medical exam completed and submitted, as well as contacted Director Willard via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu) to register for the test.
 
