@@ -46,7 +46,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Temple University Police Training Academy"
-      content="Interested in being under the Temple Law Enforcement umbrella? Class 19-01 is now Accepting Applications for the May 2019 Class!"
+      content="Interested in being under the Temple Law Enforcement umbrella? Class 19-02 starts September 16th with anticipated graduation date the first week of March 2020!"
       image=""
       button-link="https://www.cla.temple.edu/criminal-justice-training-program/temple-university-police-academy/"
       button-text="Learn More" %}
