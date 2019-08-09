@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: tla_page_test
 permalink: /police-officers-in-service-training/
 published: true
 # meta-data variables
