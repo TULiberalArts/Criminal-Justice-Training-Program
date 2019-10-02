@@ -15,8 +15,8 @@ The Municipal Police Academy developed from Temple University's desire to train 
 
 _Applications are reviewed as they are received. For more information about applying on-line, contact [policeacademy@temple.edu](mailto:policeacademy@temple.edu) or call [(267) 468-8600](tel:2674688600)._
 
-### TUPA Class 19-02 is now Accepting Applications for the March 2020 Class!
-Applicants must bring their driver’s license and proof of health insurance at that time. Portions of the test are conducted outside, so applicants should dress accordingly. In order to be eligible to participate in the test, applicants must have submitted their on-line application, have had their MPOETC medical exam completed and submitted, as well as contacted Director Willard via e-mail at [cwillard@temple.edu](mailto:cwillard@temple.edu) to register for the test.
+### TUPA is now accepting applications for (Spring) May of 2020 and (Fall) September of 2020!
+When applicants click on the “apply now” button below they will be directed to the [noncredit.temple.edu website](https://noncredit.temple.edu/nce). There applicants should create a student profile and complete the Temple University Police Academy Application, choosing either Spring of 2020 or Fall of 2020. Applicants do not have to collect all supporting documents prior to submitting the application. It is preferred they submit the online portion of the application as soon as they complete it. Students will receive an email from academy staff confirming receipt of the application, instructions on how to submit required documents, copies of required forms, and information on when testing dates will be scheduled.
 
 **Class 19-02 Academy Dates:**
 - **Program Dates:** Class 19-02 starts September 16th with anticipated graduation date the first week of March 2020.
@@ -33,4 +33,5 @@ For more information about applying on-line, you may e-mail [policeacademy@templ
 
 **Temple University Police Academy is a stand-alone Academy and is not affiliated with Temple University Police Department. Attending the Temple Police Academy does not guarantee employment with the Temple University Police Department.**
 
-- **[APPLY ONLINE](http://noncredit.temple.edu/policeacademy)**
+<a class="waves-effect waves-light btn-large" href="http://noncredit.temple.edu/policeacademy"><i class="material-icons left">cloud</i>Apply Online</a>
+
