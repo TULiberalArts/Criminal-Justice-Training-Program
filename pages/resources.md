@@ -11,6 +11,7 @@ keywords: ''
 ---
 ## Career Opportunities 
 - [Carlisle Police Department - Police Officers](https://liberalarts.temple.edu/sites/liberalarts/files/Carlisle%20PD.pdf)
+- [Newark Police Department - Police Officer](https://liberalarts.temple.edu/sites/liberalarts/files/Newark%20PD%20Posting.pdf)
 
 ___
 
