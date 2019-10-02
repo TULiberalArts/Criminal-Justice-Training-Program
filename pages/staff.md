@@ -40,10 +40,11 @@ keywords: ''
   
    ___
     
-   Kevin P. Myers, Coordinator-Deputy Sheriff's Training Program  
+   Katherine Olsen – Administrative 
+   204 West Hall    
    [(267) 468-8605](tel:2674688605)  
    Fax: [(267) 468-8660](tel:2674688660)  
-   [kevin.myers0001@temple.edu](mailto:kevin.myers0001@temple.edu)  
+   [Katherine.olsen@temple.edu](mailto:Katherine.olsen@temple.edu)  
 
    ___
      
