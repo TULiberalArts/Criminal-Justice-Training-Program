@@ -27,7 +27,6 @@ ___
 
 ### Criminal Justice Training Programs Time Sheets
 - [Instructor Timesheet](https://liberalarts.temple.edu/sites/liberalarts/files/Instructor%20Timesheet.pdf) (PDF)
-- [Student Worker Timesheet](https://liberalarts.temple.edu/sites/liberalarts/files/Student%20Worker%20Timesheet.pdf)(PDF)
 
 ### Temple University City of Philadelphia Wage Tax Refund
 - [City Wage Tax Refund Form](https://liberalarts.temple.edu/sites/liberalarts/files/CityWageTaxRefund.pdf)(PDF)
