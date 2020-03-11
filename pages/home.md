@@ -32,7 +32,7 @@ _If you have any questions, please contact Assistant Director Willard at [cwilla
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Park Ranger Law Enforcement Academy (PRLEA)"
     content="Temple’s PRLEA is a 19-week program consisting of more than 700 hours of professional instruction designed to prepare and enable students to obtain employment with the National Park Service as a seasonal law enforcement ranger."
     image=""
@@ -40,7 +40,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Temple University Police Training Academy"
       content="Interested in being under the Temple Law Enforcement umbrella? Class 19-02 starts September 16th with anticipated graduation date the first week of March 2020!"
       image=""
@@ -48,7 +48,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title=" CJTP Training Programs"
         content="We offer a diverse selection of training programs that you can take advantage of to further your career in law enforcement. We also offer an Instructor Development course that is beneficial for law enforcemnet professionsals and instructors!"
         image=""
